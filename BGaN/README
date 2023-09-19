@@ -1,0 +1,3 @@
+Folders contain the optimised geometries of boron microstructures in a 3x3x3 GaN supercell as described in "Electronic and optical properties of boron-containing GaN alloys: The role of boron atom clustering" by C-L. Nies, T. P. Sheerin and S. Schulz. 
+
+KPOINTS and INCAR for GGA and mBJ calculations are also included. These were the same for all calculations. 
